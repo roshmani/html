@@ -1,0 +1,45 @@
+/* add your CSS here */
+.redpanda
+{
+	width:300px;
+	height:300px;
+	padding:1px;
+    border:1px solid grey;
+	border-radius: 10px;
+}
+
+ul
+{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+}
+
+.pandafunFact
+{
+	font-style:italic;
+	text-align:left;
+}
+.Top
+{
+	width:300px;
+	box-shadow:10px 10px 5px #ccc;
+	border: 1px solid grey;	
+    padding: 15px;
+	Margin:10px	
+}
+
+#pandaDetails
+{
+ 	width:270px;
+  border:1px solid grey;	
+  border-radius:10px;
+	padding: 15px;
+	Margin-top:10px;
+ }
+
+
+span
+{
+	font-weight:bold;
+}
